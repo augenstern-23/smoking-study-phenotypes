@@ -3,3 +3,6 @@ data/
 
 # vs code
 .DS_Store
+
+# jupyter notebook
+.ipynb_checkpoints
